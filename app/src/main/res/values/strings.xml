@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TacolodAndroidLayout</string>
+    <string name="icon_holder1">Nara</string>
+    <string name="icon_holder2">Seri</string>
+    <string name="icon_holder3">Nabi</string>
+    <string name="icon_holder4">Mina</string>
+    <string name="app_title">Cute Cats</string>
+</resources>
